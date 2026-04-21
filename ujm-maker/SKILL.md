@@ -91,7 +91,7 @@ return { found: false };
   > "I can't find a frame called **'Journey map template'** in this file.
   > This skill only works with the companion UJM template.
   > Please duplicate it from
-  > https://www.figma.com/design/BNXq0DkJYaDgDuMtLmiRQp/Figma-UJM-Test,
+  > https://www.figma.com/community/file/1628023173002348154/ai-ready-user-journey-map-template?q_id=2a162b44-c373-41ec-9a08-cc0447e1b788,
   > then paste the new file's link."
 
 Do not proceed past this step until the frame is confirmed present.
